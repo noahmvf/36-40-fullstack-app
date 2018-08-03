@@ -5,6 +5,8 @@ import Landing from '../landing/landing';
 import Dashboard from '../dashboard/dashboard';
 import AuthRedirect from '../auth-redirect/auth-redirect';
 
+import './app.scss';
+
 export default class App extends React.Component {
   render() {
     return (
